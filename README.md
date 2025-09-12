@@ -1,4 +1,4 @@
-# <!-- Title -->
+# <!-- Title --> 
 <div align="center" style="padding:18px;border:2px solid #38BDF8;border-radius:14px;">
   <h1 style="margin:0;font-size:34px;line-height:1.2;">🧪 SQA Test Suite — E-commerce Web App (KaBuM!)</h1>
   <p style="margin:6px 0 0 0;font-size:15px;opacity:.92;">Functional • API • UI • Performance • Compatibility • Accessibility</p>
