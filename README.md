@@ -10,9 +10,6 @@
   </p>
 </div>
 
-<p align="center" style="margin-top:12px;">
-  <b>বাংলা Quick Start নিচে আছে — keep scrolling.</b>
-</p>
 
 ---
 
