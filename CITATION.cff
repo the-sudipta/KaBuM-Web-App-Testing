@@ -1,0 +1,106 @@
+# CITATION.cff for KaBuM-Web-App-Testing
+# Save this content as: CITATION.cff  (UTF-8, LF)
+# Schema reference: https://citation-file-format.github.io/
+
+cff-version: 1.2.0
+message: >-
+  If you use this repository in your work, please cite it using the
+  metadata below. Thank you!
+
+# -------- Top-level metadata --------
+title: "KaBuM! Web App — SQA Test Repository"
+abstract: >-
+  Curated software-quality assets for KaBuM! e-commerce: Test Plan, Test Cases,
+  Postman API collection (Newman-ready), and CI scaffolds for Google Sheets→Excel
+  export. Includes guidance for UI (Playwright/Selenium) and performance (JMeter)
+  test suites with recruiter-friendly documentation (HTML+CSS-in-Markdown).
+type: software
+license: MIT
+version: "2025.09.18"
+date-released: "2025-09-18"
+repository-code: "https://github.com/the-sudipta/KaBuM-Web-App-Testing"
+url: "https://github.com/the-sudipta/KaBuM-Web-App-Testing"
+keywords:
+  - software testing
+  - SQA
+  - QA engineering
+  - API testing
+  - Postman
+  - Newman
+  - Playwright
+  - Selenium
+  - JMeter
+  - Test Plan
+  - Test Cases
+  - GitHub Actions
+  - Google Sheets to Excel
+  - e-commerce
+  - KaBuM
+
+# -------- Authors / Contributors --------
+authors:
+  - family-names: "Das"
+    given-names: "Sudipta Kumar"
+    orcid: "https://orcid.org/0009-0000-7521-776"
+    website: "https://sudiptakumar.site/"
+    email: "sudiptakumar.aiub@gmail.com"
+    affiliation: "AIUB (BSc CSE); PMSCS, Jahangirnagar University"
+    identifiers:
+      - scheme: "GitHub"
+        value: "https://github.com/the-sudipta"
+      - scheme: "LinkedIn"
+        value: "https://www.linkedin.com/in/sudiptakumar/"
+
+# -------- Preferred citation (software) --------
+preferred-citation:
+  type: software
+  title: "KaBuM! Web App — SQA Test Repository"
+  version: "2025.09.18"
+  date-released: "2025-09-18"
+  url: "https://github.com/the-sudipta/KaBuM-Web-App-Testing"
+  repository-code: "https://github.com/the-sudipta/KaBuM-Web-App-Testing"
+  license: MIT
+  authors:
+    - family-names: "Das"
+      given-names: "Sudipta Kumar"
+      orcid: "https://orcid.org/0009-0000-7521-776"
+
+# -------- How to cite (BibTeX example) --------
+# Many services will auto-generate BibTeX from this file, but you can include a ready string.
+references:
+  - type: generic
+    title: "Suggested BibTeX"
+    notes: |
+      @software{das_kabum_web_app_testing_2025,
+        author  = {Das, Sudipta Kumar},
+        title   = {{KaBuM! Web App — SQA Test Repository}},
+        year    = {2025},
+        version = {2025.09.18},
+        url     = {https://github.com/the-sudipta/KaBuM-Web-App-Testing},
+        note    = {SQA assets: Test Plan, Test Cases, Postman collection, CI scaffolds}
+      }
+
+# -------- Related resources (optional) --------
+# Provide human-friendly anchors to important artifacts in the repo.
+references:
+  - type: software
+    title: "Postman API Collection"
+    url: "https://github.com/the-sudipta/KaBuM-Web-App-Testing/tree/main/API%20Testing"
+  - type: generic
+    title: "Test Plan (PDF)"
+    url: "https://github.com/the-sudipta/KaBuM-Web-App-Testing/tree/main/Test%20Plan"
+  - type: generic
+    title: "Test Cases (XLSX)"
+    url: "https://github.com/the-sudipta/KaBuM-Web-App-Testing/tree/main/Test%20Cases"
+  - type: generic
+    title: "CI workflow & script (Sheet→Excel)"
+    url: "https://github.com/the-sudipta/KaBuM-Web-App-Testing/tree/main/.github/workflows"
+
+# -------- Acknowledgements (optional) --------
+# You may edit or remove this section.
+contact:
+  - name: "Sudipta Kumar Das"
+    email: "sudiptakumar.aiub@gmail.com"
+    url: "https://sudiptakumar.site/"
+
+# End of CITATION.cff
